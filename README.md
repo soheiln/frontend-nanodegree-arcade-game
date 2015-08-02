@@ -1,6 +1,9 @@
 frontend-nanodegree-arcade-game
 ===============================
+A simple Arcade game to developed to practice Javascript OO programming.
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+How to play the game:
 
-for self-checking their submission.
+1- Open index.html
+2- Use keyboard arrow keys to move around
+3- Avoid the bugs and reach the river!
